@@ -29,6 +29,8 @@ export default {
   ** Global CSS
   */
   css: [
+    '~/layouts/theme/variables.scss',
+    '~/layouts/global.scss',
   ],
   /*
   ** Plugins to load before mounting the App
